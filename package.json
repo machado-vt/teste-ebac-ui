@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "npx cypress run -- browser edge"
+    "test": "npx cypress run -- browser edge",
+    "cydash": "npx cypress run --record --key 2c02a898-55ed-4a91-a25d-9a1411fa1b7b"
   },
   "keywords": [],
   "author": "",
